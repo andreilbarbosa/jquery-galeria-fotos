@@ -1,7 +1,7 @@
-## Atividade do módulo Conheça o jQuery para praticar e aprender sobre a biblioteca do JavaScript. 
+## Atividade de acompanhamento do módulo Conheça o jQuery para praticar e aprender sobre a biblioteca do JavaScript. 
 ### Curso Front End Developer - EBAC 
 
-Foi confeccionado uma galeria de fotos utilizando o url das imagens para os usuários salvarem. Consiste em:
+Foi confeccionado com o professor uma galeria de fotos utilizando o url das imagens para os usuários salvarem. Consiste em:
  
 > Adicionar animação no formulários de adição de imagens;
 
