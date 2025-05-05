@@ -11,4 +11,4 @@ Foi confeccionado com o professor uma galeria de fotos utilizando o url das imag
 
 #### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
 
-##### Link Vercel: 
+##### Link Vercel: https://jquery-galeria-fotos-sand-eight.vercel.app
